@@ -39,4 +39,4 @@
 
 [gmail]: mailto:himanshu312001@gmail.com
 [reddit]: https://www.reddit.com/user/needsleep31
-[link]: https://www.linkedin.com/in/himanshu-g-248b24123/
+[link]: https://www.linkedin.com/in/himanshu-gaikwad/
