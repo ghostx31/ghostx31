@@ -9,6 +9,7 @@
 - My world revolves around Linux ✨
 - I like great music and books so if you have any recommendations, I'd be more than willing to hear them 😙️
 - I use ![Arch](https://img.shields.io/badge/-Arch%20Linux-1E1E2E?style=flat-sqaure&logo=archlinux&logoColor=1793D1) BTW 😜️
+- Contributor at [Catppuccin](https://www.github.com/catppuccin/joplin) 🐱
 
 &#x200B;
 
