@@ -1,14 +1,13 @@
 
-<h1 align="center">Hi, I am Himanshu 👋 </h1>
+<h1 align="center"> Hello there! I am spooky 👋 </h1>
 
 <!-- <img src="assets/cat-typing.gif" align="right" width="200px"> -->
 
 **About me:**
-- AWS Certified Solutions Architect 😁️
+- AWS Certified Solutions Architect ☁
 - Currently completing my Bachelors in Computer Science 💻️
-- My world revolves around Linux ✨
-- I like great music and books so if you have any recommendations, ping me on any of my socials! 😙️
-- Developer and staff member at [Catppuccin](https://www.github.com/catppuccin/) 🐱
+- Linux nerd 🐧
+- Developer and staff at [Catppuccin](https://www.github.com/catppuccin/) 🐱
 
 &#x200B;
 
@@ -34,10 +33,10 @@
 &#x200B;
 
 
-**Github stats**
+<!-- **Github stats** -->
 
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ghostx31&show_icons=true&bg_color=1e1e2e&border_color=b4befe&title_color=f5e0dc&text_color=cdd6f4&icon_color=89b4fa" alt="ghostx31" />	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostx31&layout=compact&show_icons=true&bg_color=1e1e2e&border_color=b4befe&title_color=f5e0dc&icon_color=89b4fa&text_color=cdd6f4&langs_count=6" height="170" align="left" alt="lang" />
+<!-- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ghostx31&show_icons=true&bg_color=1e1e2e&border_color=b4befe&title_color=f5e0dc&text_color=cdd6f4&icon_color=89b4fa" alt="ghostx31" />	 -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostx31&layout=compact&show_icons=true&bg_color=1e1e2e&border_color=b4befe&title_color=f5e0dc&icon_color=89b4fa&text_color=cdd6f4&langs_count=6" height="170" align="left" alt="lang" /> -->
 
 
 
