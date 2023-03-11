@@ -7,7 +7,7 @@ Cloud engineer who loves open-source ❤️
 
 - 🐱 Staff and maintainer at [Catppuccin](https://github.com/catppuccin/).
 - 🐧 I code in Go and sometimes python and have a deep interest in Linux. 
-- ⚙️ 📔️ Feel free to connect with me to talk about DevOps or your favourite books. 
+- ⚙️ 📔️ Chat with me about DevOps or perhaps your favourite book. 
 
 &#x200B;
 
