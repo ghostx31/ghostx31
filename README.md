@@ -2,10 +2,9 @@
 package whoami
 
 func aboutMe() {
-    var identity string = "DevOps Engineer"
-    var openSourceWork string = "Staff@Catppuccin"
-    var techStack string[] = ["Kubernetes", "Cloud", "Go", "everything cloud native"]
-    var website string = "https://blog.spookyintheam.com"
+    identity := "DevOps Engineer"
+    openSourceWork := "Staff@Catppuccin"
+    techStack := [4]string{"Cloud", "Kubernetes", "Go", "Everything Cloud Native"}
+    website := "https://blog.spookyintheam.com"
 }
-
 ```
